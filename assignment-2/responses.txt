@@ -1,0 +1,9 @@
+The internet splits up bits of information into packets to help them better reach their destination. For instance, if a space ship (picture) is needed to be moved to a different location (computer) it is split into multiple trucks(packets) to get there.
+
+IP addresses connect the device to networks.
+the IP address contains the country of network/ regional network/ subnetworks/ device.
+The DNS is the system in which all these IP addresses travel, just like regular street addresses, to move information from place to place.
+
+A cookie is defined as invisible data identification card so the website remembers who you are.
+
+The three parts of a url is the protocol, domain name, and path.
