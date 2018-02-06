@@ -1,7 +1,7 @@
 # Assignment 2
 Version Control System helps a user make changes to a file and track the changes overtime. You can tell whether or not something will work without having to create a bunch of save as files, it either works or doesn't. We use it because it makes collaboration easier and its also easier to share changes and progress.
 
- here are my [responses](./assignment-2/responses.txt)
+[Responses](./responses.txt)
 
 ![](./images/assignment_two_screenshot.png)
 
